@@ -1,0 +1,3 @@
+[submodule "lib/gitsub-submodule"]
+	path = lib/gitsub-submodule
+	url = git@github.com:wakproductions/gitsub-submodule.git
